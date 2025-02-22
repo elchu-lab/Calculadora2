@@ -1,6 +1,8 @@
 package genc181802.desafio2;
 
 import java.util.Scanner;
+//Usar comentarios para explicar el código
+//Usar nombres de variables y funciones descriptivas
 
 public class Calculadora2 {
     //Vamos a crear una calculadora que reciba inputs del usuario
